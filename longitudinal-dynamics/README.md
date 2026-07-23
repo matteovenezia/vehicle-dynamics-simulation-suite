@@ -42,12 +42,12 @@ Front and rear wheels angular speed and acceleration.
 
 ### Vehicle speed validation
 
-Comparison between the simulated vehicle speed and the reference speed profile, used to correlate the wheel dynamics with the overall vehicle longitudinal response.
+Comparison between the simulated wheel speed and the reference vehicle speed profile, to correlate the wheel dynamics with the overall vehicle longitudinal response.
 
 <img width="1440" height="850" alt="LongDyn_scope_spd" src="https://github.com/user-attachments/assets/a9e59b63-1bc5-45dc-9323-0036d8ba2686" />
 
 ### Vehicle acceleration vaidation
 
-Longitudinal vehicle acceleration during the reference driving cycle, used to correlate the wheel angular acceleration with the resulting vehicle response.
+Longitudinal vehicle acceleration, to correlate the wheel angular acceleration with the resulting vehicle response.
 
 <img width="1439" height="719" alt="LongDyn_scope_acc" src="https://github.com/user-attachments/assets/2cba8df0-1e48-41a0-8a07-e42ef08551b6" />
