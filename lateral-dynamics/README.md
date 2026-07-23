@@ -2,7 +2,7 @@
 
 MATLAB and Simulink full-vehicle model based on a three-degree-of-freedom (3-DoF) formulation, developed to simulate the lateral behaviour of a vehicle during cornering manoeuvres.
 
-The model combines a 3-DoF vehicle dynamics formulation with four-wheel tyre force modelling, wheel rotational dynamics, aerodynamic loads and global trajectory reconstruction.
+It combines a 3-DoF vehicle dynamics formulation with four-wheel tyre force modelling, wheel rotational dynamics, aerodynamic loads and global trajectory reconstruction.
 
 ## Main features
 
