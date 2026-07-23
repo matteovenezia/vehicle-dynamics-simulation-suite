@@ -2,7 +2,7 @@
 
 MATLAB and Simulink model developed to simulate the longitudinal behaviour of a vehicle under traction and braking conditions.
 
-The model includes aerodynamic forces, dynamic load transfer, wheel rotational dynamics, longitudinal tyre forces, slip-ratio calculation and vehicle longitudinal equilibrium.
+It includes aerodynamic forces, dynamic load transfer, wheel rotational dynamics, longitudinal tyre forces, slip-ratio calculation and vehicle longitudinal equilibrium.
 
 ## Main features
 
