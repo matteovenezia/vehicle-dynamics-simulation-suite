@@ -18,7 +18,7 @@ The model includes aerodynamic forces, dynamic load transfer, wheel rotational d
 
 The figure below shows the top-level Simulink architecture of the longitudinal vehicle dynamics model.
 
-![Model overview](LongDyn_overview.png)
+[LongDyn_overview.pdf](https://github.com/user-attachments/files/30300360/LongDyn_overview.pdf)
 
 ---
 
@@ -26,7 +26,7 @@ The figure below shows the top-level Simulink architecture of the longitudinal v
 
 The complete Simulink model architecture and subsystem hierarchy are available in the PDF below.
 
-📄 **[View the complete Simulink model](LongDyn.pdf)** :contentReference[oaicite:0]{index=0}
+[LongDyn.pdf](https://github.com/user-attachments/files/30300366/LongDyn.pdf)
 
 ---
 
@@ -36,7 +36,7 @@ The model was evaluated using a reference speed driving cycle including steady-s
 
 ### Wheel dynamics
 
-Comparison of front and rear wheel peripheral speed and wheel angular acceleration during the reference driving cycle.
+Front and rear wheels angular speed and acceleration.
 
 <img width="1308" height="733" alt="LongDyn_output" src="https://github.com/user-attachments/assets/e970b19b-4425-4724-86c3-ae9a30ec1266" />
 
