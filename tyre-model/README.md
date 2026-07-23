@@ -2,7 +2,7 @@
 
 MATLAB and Simulink implementation of the Pacejka 98 Magic Formula tyre model for longitudinal and lateral tyre-force prediction.
 
-The model computes longitudinal and lateral tyre forces as functions of slip ratio, slip angle, vertical load and camber angle, including combined-slip behaviour through an elliptical friction model. The tyre model is designed to be integrated into higher-level vehicle dynamics simulations.
+It computes longitudinal and lateral tyre forces as functions of slip ratio, slip angle, vertical load and camber angle, including combined-slip behaviour through an elliptical friction model. The tyre model is designed to be integrated into higher-level vehicle dynamics simulations.
 
 ## Main features
 
